@@ -11,14 +11,14 @@
 </head>
 <body>
 <nav class="navbar navbar-default navbar-inverse">
-    <div class="container-fluid">
+    <div class="container container-fluid">
         <div class="navbar-header">
             <a href="" class="navbar-brand">BLOG</a>
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li class="active"><a href="">首页</a></li>
-                <li><a href="">本站项目技术介绍</a></li>
+                <li class="active"><a href="/">首页</a></li>
+                <li><a href="/about">本站项目技术介绍</a></li>
             </ul>
             <div class="nav navbar-nav navbar-right">
                 <form class="navbar-form">
@@ -29,6 +29,9 @@
         </div>
     </div>
 </nav>
+<div class="container">
+
+</div>
 <script src="../static/vendor/jquery/dist/jquery.min.js"></script>
 <script src="../static/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
 </body>
